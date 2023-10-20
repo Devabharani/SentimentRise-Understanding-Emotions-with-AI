@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sentiment Analysis</title>
+    <style>
+        body {
+            background-image: url('https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-color: transparent;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form-container {
+            text-align: center;
+            background-color: transparent; /* Set background color to fully transparent */
+            padding: 20px;
+            border-radius: 10px;
+        }
+        form {
+            margin: 0;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+		 h1 {
+            color: white; /* Set the color of h1 to white */
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Enter a Sentence</h1>
+        <form method="POST" action="/classify">
+            <input type="text" name="sentence" placeholder="Enter your sentence">
+            <input type="submit" value="Classify">
+        </form>
+    </div>
+</body>
+</html>
