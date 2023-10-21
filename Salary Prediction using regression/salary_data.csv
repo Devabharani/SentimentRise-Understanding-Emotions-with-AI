@@ -1,0 +1,1001 @@
+Age,Education,Experience,CompanyType,Position,PastSalary_INR,Salary_INR
+22,Ph.D.,2,Startup,Engineer,186259,230604
+25,Master's,5,Startup,Engineer,77517,61723
+25,Ph.D.,17,Startup,Analyst,59757,146060
+61,Master's,14,Corporation,Manager,30969,283880
+31,Ph.D.,5,Startup,Data Scientist,43054,160370
+41,Bachelor's,14,Corporation,Analyst,121872,45800
+43,Master's,17,Corporation,Analyst,108634,145284
+58,Bachelor's,9,Startup,Analyst,34588,67721
+45,Master's,14,Startup,Data Scientist,50280,248287
+28,Master's,12,Startup,Data Scientist,135430,117461
+46,Bachelor's,2,Corporation,Manager,184915,77192
+46,Ph.D.,3,Corporation,Data Scientist,133422,104579
+34,Bachelor's,0,Startup,Engineer,65678,270055
+23,Bachelor's,12,Corporation,Engineer,192189,178138
+60,Master's,12,Corporation,Manager,162559,174726
+61,Ph.D.,12,Corporation,Data Scientist,61054,254029
+45,Ph.D.,19,Corporation,Manager,21288,62085
+46,Bachelor's,0,Startup,Manager,24715,217430
+39,Bachelor's,17,Startup,Data Scientist,112610,99841
+59,Ph.D.,2,Startup,Analyst,26200,87065
+47,Bachelor's,18,Corporation,Data Scientist,181103,254293
+35,Master's,19,Corporation,Engineer,139224,270398
+30,Master's,4,Corporation,Data Scientist,63996,239799
+31,Bachelor's,5,Corporation,Analyst,171394,100970
+42,Master's,17,Corporation,Data Scientist,46282,64715
+38,Ph.D.,6,Startup,Engineer,39558,100486
+27,Bachelor's,15,Startup,Engineer,91013,215412
+37,Master's,1,Startup,Analyst,169720,234739
+22,Bachelor's,15,Corporation,Analyst,106277,203306
+40,Ph.D.,9,Corporation,Engineer,120238,41913
+57,Master's,13,Startup,Engineer,181464,96409
+46,Ph.D.,17,Corporation,Data Scientist,172802,193655
+51,Bachelor's,12,Corporation,Manager,189355,80772
+41,Bachelor's,13,Corporation,Manager,54034,68283
+41,Master's,18,Corporation,Analyst,180332,50678
+36,Ph.D.,15,Corporation,Analyst,166618,243340
+61,Bachelor's,2,Corporation,Manager,88539,209053
+54,Ph.D.,11,Startup,Engineer,26592,171479
+23,Ph.D.,9,Startup,Analyst,67037,93033
+31,Master's,18,Corporation,Data Scientist,185730,233002
+54,Ph.D.,8,Startup,Manager,142873,263887
+53,Bachelor's,19,Corporation,Data Scientist,45152,53692
+32,Bachelor's,15,Corporation,Data Scientist,142937,197744
+45,Master's,4,Corporation,Engineer,189855,165831
+57,Ph.D.,10,Corporation,Analyst,28836,84917
+33,Bachelor's,17,Corporation,Analyst,72580,72367
+50,Bachelor's,6,Corporation,Analyst,84901,238541
+56,Master's,12,Corporation,Engineer,184574,255233
+22,Ph.D.,8,Corporation,Data Scientist,113435,109664
+22,Ph.D.,8,Startup,Data Scientist,146002,154904
+58,Ph.D.,8,Startup,Data Scientist,50079,261634
+27,Bachelor's,12,Startup,Data Scientist,88778,279972
+60,Bachelor's,5,Startup,Analyst,158672,239071
+62,Master's,18,Corporation,Analyst,134959,154861
+39,Bachelor's,2,Startup,Data Scientist,120581,31162
+37,Master's,5,Startup,Data Scientist,74389,43459
+26,Master's,5,Startup,Engineer,50428,283005
+63,Ph.D.,4,Startup,Analyst,177275,31987
+64,Master's,10,Corporation,Analyst,64539,181076
+53,Ph.D.,17,Corporation,Data Scientist,121559,199475
+23,Ph.D.,11,Startup,Analyst,186781,148179
+23,Bachelor's,17,Corporation,Analyst,69825,133432
+61,Bachelor's,8,Corporation,Data Scientist,34603,283637
+63,Master's,3,Startup,Manager,44539,121357
+57,Master's,16,Corporation,Manager,119597,294123
+60,Master's,11,Startup,Manager,157607,161792
+33,Master's,18,Corporation,Analyst,68536,165609
+40,Bachelor's,15,Startup,Engineer,164483,119460
+49,Master's,3,Corporation,Analyst,44146,194694
+22,Ph.D.,4,Startup,Data Scientist,177992,137235
+36,Bachelor's,7,Startup,Engineer,54487,88930
+57,Ph.D.,3,Startup,Data Scientist,149601,94096
+34,Master's,11,Corporation,Engineer,66363,223618
+64,Bachelor's,15,Startup,Engineer,96687,299848
+42,Ph.D.,13,Corporation,Engineer,100169,52656
+33,Bachelor's,15,Corporation,Engineer,134637,174584
+26,Ph.D.,1,Corporation,Manager,46118,52615
+28,Bachelor's,11,Corporation,Engineer,47872,263985
+26,Ph.D.,5,Corporation,Engineer,27992,125483
+25,Ph.D.,4,Corporation,Data Scientist,130772,249366
+34,Ph.D.,0,Startup,Data Scientist,99182,106786
+58,Bachelor's,5,Startup,Manager,47014,104705
+62,Ph.D.,11,Startup,Engineer,155713,118275
+36,Ph.D.,13,Corporation,Data Scientist,20383,191917
+37,Master's,7,Corporation,Engineer,197914,289013
+42,Ph.D.,8,Corporation,Engineer,136606,169771
+57,Master's,11,Startup,Analyst,181838,244869
+45,Bachelor's,1,Corporation,Engineer,45114,128850
+37,Ph.D.,14,Corporation,Data Scientist,25171,299793
+35,Bachelor's,6,Startup,Analyst,152256,283403
+43,Master's,11,Corporation,Analyst,167132,128665
+27,Master's,10,Corporation,Data Scientist,185678,79363
+63,Bachelor's,0,Startup,Engineer,72319,108677
+57,Ph.D.,18,Corporation,Engineer,24743,250292
+22,Bachelor's,8,Startup,Engineer,168263,172771
+53,Master's,6,Corporation,Analyst,174817,142345
+27,Master's,11,Corporation,Data Scientist,54405,237741
+52,Ph.D.,3,Startup,Analyst,108731,101923
+22,Master's,4,Corporation,Analyst,62918,162536
+58,Ph.D.,4,Startup,Engineer,128077,199598
+56,Ph.D.,17,Corporation,Manager,172215,158804
+51,Ph.D.,15,Corporation,Engineer,81708,284175
+25,Master's,19,Startup,Manager,53417,231405
+56,Bachelor's,8,Corporation,Data Scientist,153277,39583
+64,Bachelor's,9,Corporation,Analyst,136893,199716
+35,Master's,18,Startup,Engineer,95789,200659
+61,Bachelor's,17,Startup,Data Scientist,135287,264740
+43,Bachelor's,7,Corporation,Manager,144696,201057
+31,Master's,19,Corporation,Analyst,182884,97025
+22,Bachelor's,3,Corporation,Analyst,70616,224717
+32,Master's,9,Startup,Data Scientist,25835,196091
+45,Ph.D.,15,Corporation,Data Scientist,124636,164562
+24,Ph.D.,16,Corporation,Data Scientist,109752,163099
+56,Bachelor's,7,Startup,Engineer,25733,191016
+57,Master's,3,Startup,Analyst,40584,239697
+52,Ph.D.,7,Startup,Data Scientist,159752,282794
+25,Master's,8,Startup,Manager,147541,166702
+40,Master's,5,Startup,Engineer,23938,232908
+57,Master's,5,Corporation,Manager,156110,102214
+42,Bachelor's,1,Corporation,Analyst,92698,167305
+39,Ph.D.,14,Corporation,Analyst,84141,53129
+49,Bachelor's,6,Startup,Manager,152620,280124
+36,Master's,17,Corporation,Engineer,180969,45959
+63,Ph.D.,8,Startup,Data Scientist,161742,122162
+23,Bachelor's,1,Corporation,Data Scientist,126781,215929
+58,Ph.D.,2,Corporation,Data Scientist,75564,170594
+32,Bachelor's,16,Startup,Data Scientist,148695,263114
+44,Master's,2,Corporation,Data Scientist,144962,123708
+62,Ph.D.,11,Startup,Manager,150106,241858
+33,Master's,10,Startup,Manager,48348,295969
+24,Master's,4,Corporation,Engineer,104625,239309
+38,Ph.D.,14,Startup,Analyst,179915,241878
+54,Ph.D.,7,Corporation,Data Scientist,111888,196647
+22,Bachelor's,5,Corporation,Analyst,144937,201334
+60,Bachelor's,14,Startup,Data Scientist,137175,156588
+41,Master's,18,Corporation,Data Scientist,143901,155176
+64,Bachelor's,14,Corporation,Manager,181424,127928
+62,Ph.D.,15,Startup,Engineer,75766,243863
+35,Ph.D.,19,Corporation,Data Scientist,192756,275657
+52,Ph.D.,0,Corporation,Analyst,46712,237681
+46,Master's,6,Corporation,Engineer,163867,52874
+24,Bachelor's,9,Startup,Manager,193882,119203
+25,Bachelor's,1,Startup,Data Scientist,138740,42702
+52,Bachelor's,11,Corporation,Manager,47861,210629
+56,Bachelor's,6,Startup,Data Scientist,184644,51364
+35,Bachelor's,8,Corporation,Analyst,133932,131667
+62,Bachelor's,4,Startup,Engineer,137762,48402
+30,Bachelor's,12,Startup,Analyst,87118,117677
+41,Master's,3,Corporation,Data Scientist,58739,270822
+53,Bachelor's,5,Corporation,Data Scientist,124697,290671
+30,Bachelor's,12,Corporation,Manager,31298,230878
+48,Bachelor's,18,Startup,Engineer,66175,202640
+24,Master's,0,Startup,Analyst,129763,122328
+25,Bachelor's,1,Corporation,Engineer,173243,176845
+36,Master's,13,Startup,Data Scientist,54864,58660
+54,Master's,16,Startup,Analyst,101390,177282
+26,Master's,11,Corporation,Manager,44451,72085
+25,Ph.D.,14,Startup,Data Scientist,60700,67849
+33,Bachelor's,13,Startup,Manager,192043,179290
+44,Ph.D.,8,Startup,Analyst,120976,119013
+35,Bachelor's,3,Startup,Analyst,140536,48013
+33,Master's,9,Startup,Data Scientist,173756,89424
+38,Master's,17,Startup,Data Scientist,67400,193687
+46,Bachelor's,5,Corporation,Manager,99049,275143
+51,Bachelor's,11,Corporation,Data Scientist,166178,44217
+43,Master's,13,Startup,Engineer,87022,110193
+47,Bachelor's,9,Startup,Engineer,165979,43120
+38,Bachelor's,13,Corporation,Manager,80404,194355
+41,Ph.D.,13,Corporation,Manager,115945,90057
+55,Master's,16,Startup,Data Scientist,128909,85485
+62,Ph.D.,17,Corporation,Data Scientist,81704,134040
+54,Master's,13,Corporation,Engineer,109381,251403
+58,Ph.D.,7,Startup,Manager,42754,190257
+28,Bachelor's,17,Corporation,Manager,64012,49208
+43,Bachelor's,4,Corporation,Engineer,51478,230801
+53,Master's,11,Startup,Manager,60038,298651
+35,Master's,15,Startup,Data Scientist,79227,218511
+29,Master's,8,Startup,Manager,178448,51692
+46,Ph.D.,6,Startup,Manager,68058,298653
+37,Master's,7,Startup,Data Scientist,101841,193484
+63,Bachelor's,11,Corporation,Data Scientist,192277,105491
+40,Master's,5,Startup,Engineer,85315,91436
+62,Bachelor's,17,Startup,Engineer,58218,261944
+37,Ph.D.,9,Corporation,Engineer,110770,276606
+33,Bachelor's,0,Corporation,Analyst,133924,164695
+60,Bachelor's,6,Startup,Analyst,110929,179144
+51,Ph.D.,19,Startup,Manager,102910,260921
+23,Bachelor's,7,Startup,Data Scientist,189360,169519
+53,Ph.D.,18,Corporation,Manager,151176,125585
+46,Ph.D.,6,Startup,Data Scientist,186973,188258
+46,Ph.D.,3,Startup,Data Scientist,33585,34824
+25,Bachelor's,5,Startup,Manager,112870,155254
+40,Ph.D.,9,Corporation,Manager,138365,155757
+25,Master's,5,Startup,Analyst,153698,112321
+64,Bachelor's,16,Startup,Manager,102123,87224
+34,Bachelor's,6,Startup,Data Scientist,134682,110552
+60,Master's,11,Startup,Data Scientist,199246,174456
+57,Master's,17,Corporation,Manager,163528,174756
+44,Master's,7,Corporation,Data Scientist,87281,274599
+27,Master's,18,Corporation,Analyst,33479,76633
+45,Ph.D.,10,Startup,Data Scientist,30751,166066
+54,Bachelor's,6,Corporation,Manager,135465,48902
+33,Bachelor's,4,Startup,Data Scientist,155531,294572
+62,Master's,7,Startup,Engineer,195386,32014
+42,Ph.D.,15,Startup,Manager,115161,221509
+32,Ph.D.,13,Startup,Analyst,149988,179787
+59,Master's,3,Startup,Engineer,133258,32266
+50,Master's,6,Startup,Engineer,133447,189040
+62,Master's,11,Startup,Engineer,180595,44339
+24,Master's,7,Startup,Analyst,111583,225517
+49,Ph.D.,11,Startup,Engineer,54164,289499
+41,Bachelor's,16,Corporation,Engineer,165031,97168
+47,Ph.D.,4,Startup,Analyst,88127,69464
+45,Bachelor's,18,Corporation,Engineer,125568,105534
+42,Bachelor's,11,Corporation,Manager,131604,164680
+51,Bachelor's,19,Startup,Manager,50875,188531
+25,Ph.D.,2,Corporation,Data Scientist,172728,51792
+57,Master's,16,Corporation,Manager,121175,82553
+61,Master's,9,Corporation,Engineer,110668,203382
+31,Ph.D.,5,Corporation,Manager,156922,58739
+31,Ph.D.,8,Startup,Analyst,60091,101171
+63,Bachelor's,17,Startup,Analyst,128770,290559
+45,Ph.D.,16,Startup,Analyst,32015,166614
+25,Bachelor's,12,Startup,Engineer,131272,34716
+48,Ph.D.,5,Startup,Analyst,141464,144689
+25,Master's,18,Startup,Engineer,158733,39361
+53,Master's,12,Corporation,Manager,134976,145124
+31,Master's,1,Startup,Analyst,95200,200864
+32,Ph.D.,10,Startup,Engineer,56847,228680
+49,Bachelor's,3,Corporation,Engineer,156908,72948
+29,Master's,16,Startup,Engineer,173104,141687
+61,Bachelor's,6,Corporation,Engineer,122517,63861
+43,Master's,0,Corporation,Analyst,97560,73668
+55,Bachelor's,7,Corporation,Engineer,89963,198282
+56,Ph.D.,3,Startup,Manager,182383,73176
+56,Ph.D.,4,Startup,Engineer,123644,143996
+46,Bachelor's,12,Startup,Manager,177235,175478
+55,Ph.D.,17,Startup,Manager,41212,253060
+27,Bachelor's,8,Corporation,Manager,98908,49798
+62,Ph.D.,15,Startup,Analyst,31794,295236
+58,Ph.D.,6,Startup,Manager,98745,177360
+22,Bachelor's,10,Startup,Manager,193962,104505
+33,Master's,1,Corporation,Engineer,120449,284564
+56,Master's,4,Corporation,Manager,122625,91439
+27,Master's,4,Corporation,Analyst,62659,217523
+38,Bachelor's,13,Startup,Analyst,66832,197487
+30,Master's,13,Corporation,Analyst,44890,85358
+23,Ph.D.,9,Corporation,Manager,93315,223779
+39,Master's,8,Startup,Data Scientist,96264,126071
+57,Ph.D.,6,Corporation,Manager,31367,257202
+49,Master's,12,Corporation,Manager,133054,171028
+62,Master's,2,Corporation,Data Scientist,34731,136605
+58,Bachelor's,3,Startup,Manager,195112,219627
+47,Ph.D.,8,Startup,Engineer,156218,138745
+25,Ph.D.,16,Corporation,Manager,162440,212095
+61,Ph.D.,5,Startup,Data Scientist,151167,169275
+57,Master's,8,Corporation,Manager,38394,46190
+52,Master's,5,Corporation,Engineer,53330,241521
+51,Bachelor's,4,Startup,Manager,21253,144480
+55,Bachelor's,11,Startup,Analyst,76339,53866
+40,Bachelor's,2,Corporation,Engineer,128983,264617
+39,Master's,6,Startup,Analyst,139583,69198
+51,Bachelor's,6,Startup,Analyst,177638,94929
+42,Ph.D.,12,Corporation,Engineer,184787,227719
+24,Bachelor's,17,Corporation,Analyst,118597,215108
+27,Master's,16,Startup,Data Scientist,23407,165985
+59,Bachelor's,5,Corporation,Data Scientist,115148,297144
+34,Ph.D.,0,Corporation,Engineer,68437,298134
+24,Ph.D.,10,Startup,Analyst,77476,118362
+49,Ph.D.,17,Corporation,Manager,33795,125536
+43,Master's,12,Corporation,Data Scientist,185777,124166
+61,Ph.D.,4,Startup,Data Scientist,106553,124313
+61,Bachelor's,10,Startup,Engineer,137686,90807
+33,Bachelor's,1,Corporation,Analyst,80794,139249
+44,Ph.D.,9,Startup,Data Scientist,48236,186792
+52,Master's,16,Startup,Manager,62752,202461
+39,Ph.D.,13,Startup,Analyst,40320,190286
+28,Bachelor's,19,Startup,Data Scientist,177638,273512
+29,Bachelor's,9,Startup,Analyst,191433,282053
+40,Ph.D.,12,Startup,Manager,137096,183797
+50,Master's,12,Corporation,Analyst,152179,139584
+41,Bachelor's,19,Corporation,Engineer,35995,244571
+63,Master's,11,Startup,Engineer,169603,292679
+51,Ph.D.,16,Startup,Analyst,174973,203224
+43,Bachelor's,18,Corporation,Data Scientist,37111,294112
+31,Bachelor's,5,Startup,Data Scientist,41273,163927
+47,Bachelor's,14,Corporation,Analyst,160500,166808
+54,Bachelor's,4,Startup,Analyst,159692,254683
+49,Bachelor's,18,Corporation,Engineer,62454,168234
+31,Bachelor's,4,Startup,Data Scientist,133895,70624
+50,Ph.D.,18,Startup,Data Scientist,94034,266416
+39,Bachelor's,15,Startup,Manager,152607,104492
+63,Bachelor's,0,Corporation,Data Scientist,142571,253119
+22,Ph.D.,17,Startup,Engineer,72506,221924
+44,Bachelor's,5,Corporation,Analyst,140602,236572
+38,Bachelor's,11,Startup,Engineer,177644,244684
+64,Ph.D.,12,Startup,Engineer,71996,238369
+58,Bachelor's,5,Startup,Manager,64928,135507
+52,Bachelor's,8,Startup,Analyst,139109,230212
+46,Ph.D.,14,Corporation,Data Scientist,34393,180790
+25,Bachelor's,16,Startup,Analyst,75782,31241
+30,Ph.D.,16,Startup,Manager,90157,258176
+49,Bachelor's,10,Startup,Engineer,78107,148157
+51,Bachelor's,5,Corporation,Engineer,156443,30111
+45,Ph.D.,15,Corporation,Engineer,28794,187249
+54,Master's,3,Startup,Engineer,59762,269151
+41,Ph.D.,6,Corporation,Manager,167244,233094
+30,Master's,16,Startup,Analyst,132860,155078
+29,Master's,18,Startup,Engineer,197731,191745
+45,Bachelor's,16,Startup,Manager,191031,98893
+35,Ph.D.,10,Startup,Data Scientist,194985,96294
+39,Master's,15,Corporation,Data Scientist,197587,215668
+22,Master's,1,Startup,Analyst,25637,293852
+33,Master's,10,Corporation,Analyst,155386,195327
+50,Master's,12,Corporation,Data Scientist,58433,180437
+58,Ph.D.,19,Corporation,Analyst,181921,138049
+47,Bachelor's,2,Startup,Manager,55903,92097
+54,Bachelor's,19,Corporation,Data Scientist,100573,170711
+64,Master's,18,Corporation,Data Scientist,74767,297538
+36,Bachelor's,19,Startup,Engineer,129915,193205
+44,Master's,7,Corporation,Engineer,30986,222387
+50,Bachelor's,7,Startup,Analyst,48876,268906
+42,Bachelor's,1,Startup,Manager,135999,41776
+40,Ph.D.,12,Corporation,Manager,129805,151379
+26,Master's,12,Startup,Data Scientist,72699,286281
+44,Ph.D.,7,Corporation,Engineer,64986,33677
+57,Bachelor's,12,Corporation,Engineer,70772,59121
+41,Master's,16,Corporation,Data Scientist,181865,268310
+29,Master's,16,Corporation,Data Scientist,112101,256961
+30,Master's,6,Corporation,Data Scientist,183981,179725
+35,Master's,4,Corporation,Analyst,138376,212717
+27,Master's,13,Startup,Manager,182641,205298
+22,Master's,12,Startup,Manager,53069,270206
+30,Bachelor's,1,Startup,Analyst,165561,94325
+37,Master's,18,Startup,Engineer,38880,281769
+37,Bachelor's,6,Corporation,Engineer,36118,162616
+33,Ph.D.,2,Startup,Engineer,129262,141905
+26,Bachelor's,14,Corporation,Analyst,157431,75125
+61,Ph.D.,13,Corporation,Analyst,182758,116827
+50,Master's,5,Corporation,Manager,77615,59070
+48,Bachelor's,13,Startup,Engineer,164901,242980
+32,Bachelor's,11,Corporation,Engineer,28903,169395
+49,Bachelor's,5,Corporation,Engineer,26077,205178
+57,Ph.D.,17,Startup,Analyst,55357,156375
+63,Master's,12,Startup,Manager,89535,276176
+40,Bachelor's,6,Startup,Manager,40943,90895
+56,Ph.D.,15,Startup,Data Scientist,62699,299669
+52,Bachelor's,9,Corporation,Engineer,84491,289299
+40,Bachelor's,10,Corporation,Manager,64447,155265
+45,Bachelor's,8,Startup,Engineer,166539,252818
+23,Bachelor's,16,Startup,Manager,109558,274051
+28,Ph.D.,5,Corporation,Data Scientist,38164,64290
+64,Master's,6,Startup,Manager,191491,251636
+52,Master's,16,Startup,Analyst,85214,118651
+38,Bachelor's,6,Corporation,Manager,31795,262341
+48,Ph.D.,16,Corporation,Analyst,92369,282115
+57,Master's,6,Startup,Engineer,153312,235658
+64,Master's,1,Startup,Analyst,155659,97272
+31,Bachelor's,15,Corporation,Engineer,170913,180990
+35,Bachelor's,1,Startup,Engineer,73042,287489
+28,Ph.D.,14,Corporation,Manager,150620,87809
+60,Master's,0,Corporation,Engineer,30810,211014
+61,Bachelor's,4,Startup,Engineer,48622,151028
+30,Ph.D.,7,Corporation,Analyst,187796,52314
+35,Ph.D.,2,Corporation,Data Scientist,72921,65003
+29,Ph.D.,17,Startup,Analyst,70834,299649
+38,Master's,14,Corporation,Analyst,137929,61612
+44,Master's,4,Startup,Engineer,124676,240435
+37,Master's,9,Startup,Engineer,20171,248618
+47,Ph.D.,8,Corporation,Analyst,62737,243933
+30,Ph.D.,16,Startup,Manager,188864,46025
+57,Bachelor's,7,Corporation,Data Scientist,150891,89292
+28,Bachelor's,11,Startup,Engineer,141047,286108
+39,Master's,10,Corporation,Engineer,108699,61455
+29,Master's,13,Corporation,Analyst,197944,293063
+42,Bachelor's,15,Startup,Manager,123474,148026
+47,Master's,9,Startup,Engineer,130709,187581
+24,Bachelor's,5,Startup,Engineer,136307,164989
+38,Bachelor's,2,Startup,Analyst,44834,43837
+45,Bachelor's,6,Corporation,Engineer,166930,57651
+46,Ph.D.,9,Corporation,Data Scientist,52796,179491
+26,Master's,13,Startup,Data Scientist,193304,114861
+58,Ph.D.,5,Corporation,Data Scientist,101326,280630
+45,Master's,6,Corporation,Analyst,88395,237668
+52,Ph.D.,3,Corporation,Analyst,77185,178895
+47,Master's,11,Startup,Engineer,195988,90715
+42,Master's,10,Corporation,Manager,174145,120773
+55,Bachelor's,11,Corporation,Manager,34090,46653
+59,Ph.D.,14,Corporation,Engineer,128403,146013
+45,Ph.D.,19,Startup,Manager,69021,96076
+49,Master's,11,Startup,Analyst,78739,46285
+51,Ph.D.,16,Startup,Manager,87358,83658
+55,Master's,3,Startup,Manager,69216,128610
+44,Master's,17,Corporation,Data Scientist,159902,121663
+29,Bachelor's,16,Startup,Manager,140174,54494
+63,Master's,10,Corporation,Analyst,32127,176421
+31,Ph.D.,9,Corporation,Data Scientist,194472,270167
+22,Bachelor's,3,Startup,Engineer,181175,275424
+41,Master's,19,Corporation,Engineer,160820,242781
+58,Bachelor's,15,Startup,Manager,49382,215238
+39,Bachelor's,4,Startup,Analyst,117276,168699
+42,Master's,6,Startup,Data Scientist,189130,242012
+25,Ph.D.,7,Corporation,Data Scientist,135043,124021
+64,Master's,17,Corporation,Engineer,184988,215981
+23,Master's,12,Corporation,Analyst,193295,109767
+42,Master's,6,Corporation,Data Scientist,150326,58502
+58,Master's,11,Startup,Engineer,59070,66673
+26,Master's,11,Corporation,Manager,114539,220391
+38,Ph.D.,14,Corporation,Data Scientist,147842,140873
+32,Bachelor's,11,Startup,Engineer,87267,211433
+62,Ph.D.,6,Startup,Analyst,136081,223079
+52,Master's,13,Corporation,Analyst,151562,49217
+49,Bachelor's,13,Startup,Data Scientist,121568,280984
+53,Bachelor's,17,Startup,Engineer,111142,52283
+42,Bachelor's,8,Corporation,Manager,194078,136020
+28,Ph.D.,4,Startup,Data Scientist,133678,165432
+31,Ph.D.,18,Startup,Data Scientist,128340,145007
+49,Ph.D.,16,Corporation,Data Scientist,114806,254650
+57,Master's,2,Startup,Data Scientist,149115,248857
+41,Ph.D.,8,Corporation,Engineer,70371,126886
+34,Ph.D.,11,Corporation,Manager,198175,218500
+40,Ph.D.,15,Corporation,Manager,42631,196951
+32,Bachelor's,19,Corporation,Engineer,77774,78878
+56,Bachelor's,15,Corporation,Manager,119671,270334
+55,Master's,13,Corporation,Data Scientist,130616,93843
+25,Bachelor's,14,Corporation,Manager,154379,56747
+34,Master's,14,Startup,Analyst,49069,276320
+58,Bachelor's,18,Corporation,Data Scientist,198592,134736
+23,Master's,14,Corporation,Analyst,173632,55749
+22,Master's,13,Startup,Analyst,86802,214233
+61,Bachelor's,1,Startup,Data Scientist,153961,266654
+46,Bachelor's,4,Corporation,Data Scientist,41861,55953
+58,Ph.D.,10,Corporation,Data Scientist,97164,257986
+57,Ph.D.,18,Startup,Analyst,100529,123363
+27,Master's,4,Corporation,Engineer,134327,49660
+28,Master's,8,Corporation,Manager,157507,190959
+25,Master's,9,Corporation,Data Scientist,120436,137060
+56,Bachelor's,14,Corporation,Analyst,23846,221938
+62,Bachelor's,13,Startup,Data Scientist,106920,40073
+55,Ph.D.,12,Corporation,Analyst,98653,232419
+50,Bachelor's,14,Corporation,Engineer,135436,86081
+26,Master's,8,Startup,Manager,117881,39102
+48,Ph.D.,13,Startup,Engineer,40551,177260
+54,Bachelor's,9,Startup,Data Scientist,150505,106385
+31,Master's,14,Startup,Analyst,71578,82468
+27,Bachelor's,12,Startup,Data Scientist,153894,250093
+55,Bachelor's,5,Startup,Manager,97253,53896
+29,Bachelor's,13,Startup,Engineer,119236,71866
+52,Master's,11,Corporation,Manager,192701,238031
+30,Master's,12,Startup,Data Scientist,130695,151888
+42,Bachelor's,9,Startup,Engineer,144310,59873
+29,Master's,17,Startup,Analyst,83623,298014
+25,Bachelor's,8,Corporation,Data Scientist,72792,290457
+43,Ph.D.,15,Startup,Analyst,89725,276490
+49,Master's,0,Corporation,Manager,196340,188679
+25,Bachelor's,12,Startup,Data Scientist,34994,42129
+60,Bachelor's,16,Startup,Analyst,82870,68313
+42,Bachelor's,18,Corporation,Engineer,87029,221647
+29,Ph.D.,19,Corporation,Analyst,156750,247311
+41,Master's,12,Startup,Analyst,132935,50913
+53,Bachelor's,18,Startup,Analyst,120920,59534
+22,Bachelor's,17,Startup,Data Scientist,136284,217777
+27,Bachelor's,11,Startup,Manager,37407,157221
+49,Master's,15,Corporation,Analyst,197616,264580
+52,Ph.D.,17,Corporation,Data Scientist,114748,84920
+31,Ph.D.,12,Startup,Data Scientist,96347,62375
+41,Bachelor's,8,Startup,Manager,151085,94349
+29,Bachelor's,7,Startup,Manager,95169,50588
+43,Master's,11,Startup,Analyst,121018,229474
+59,Bachelor's,7,Corporation,Analyst,71277,63070
+50,Ph.D.,3,Corporation,Data Scientist,109674,185778
+30,Master's,9,Startup,Manager,113690,91779
+22,Master's,9,Startup,Engineer,104567,266694
+62,Bachelor's,11,Startup,Data Scientist,95989,262664
+60,Ph.D.,17,Startup,Analyst,38011,40148
+47,Master's,18,Corporation,Manager,184407,176328
+32,Master's,16,Corporation,Data Scientist,145436,60516
+56,Bachelor's,0,Startup,Engineer,136821,201255
+45,Ph.D.,7,Startup,Engineer,183551,271732
+54,Ph.D.,18,Corporation,Manager,169990,141957
+41,Master's,11,Startup,Data Scientist,32754,244641
+48,Ph.D.,12,Startup,Engineer,98427,228392
+36,Bachelor's,13,Corporation,Engineer,91421,55068
+54,Bachelor's,8,Startup,Data Scientist,65530,215722
+28,Master's,8,Startup,Analyst,33591,87632
+55,Master's,18,Corporation,Engineer,105191,277125
+63,Ph.D.,17,Corporation,Engineer,137645,189683
+26,Bachelor's,10,Startup,Engineer,98612,191977
+51,Ph.D.,12,Startup,Engineer,181738,148645
+49,Ph.D.,2,Startup,Engineer,73667,119940
+39,Master's,11,Startup,Manager,162021,35457
+57,Bachelor's,6,Startup,Analyst,185270,61870
+24,Bachelor's,14,Startup,Engineer,182465,180673
+42,Ph.D.,14,Corporation,Engineer,117567,231106
+37,Bachelor's,18,Startup,Data Scientist,182284,101545
+58,Bachelor's,11,Startup,Data Scientist,150846,139219
+63,Ph.D.,1,Corporation,Manager,33485,192389
+26,Master's,14,Startup,Manager,172706,241391
+35,Master's,5,Startup,Analyst,62770,186019
+52,Master's,6,Corporation,Analyst,100208,105873
+45,Ph.D.,15,Startup,Engineer,176259,296175
+56,Bachelor's,12,Startup,Data Scientist,73247,35683
+57,Ph.D.,9,Startup,Analyst,73064,38417
+31,Ph.D.,3,Corporation,Engineer,158620,247483
+48,Master's,9,Corporation,Data Scientist,142842,95096
+48,Bachelor's,2,Startup,Manager,113065,121630
+44,Master's,1,Corporation,Engineer,120383,144351
+34,Bachelor's,6,Startup,Engineer,29265,105118
+37,Bachelor's,14,Corporation,Manager,174731,207835
+56,Master's,16,Startup,Data Scientist,109903,37396
+48,Master's,18,Startup,Manager,39328,73393
+60,Ph.D.,13,Corporation,Engineer,69069,187624
+38,Bachelor's,14,Corporation,Analyst,192924,161907
+62,Bachelor's,3,Corporation,Data Scientist,95574,256416
+22,Bachelor's,5,Corporation,Engineer,139516,112913
+32,Bachelor's,13,Corporation,Manager,58948,168159
+33,Bachelor's,10,Startup,Data Scientist,117694,144608
+35,Ph.D.,18,Corporation,Engineer,137793,48442
+29,Bachelor's,6,Corporation,Data Scientist,35465,246710
+52,Ph.D.,10,Corporation,Analyst,149654,276277
+28,Master's,11,Corporation,Analyst,45114,103926
+52,Ph.D.,1,Startup,Analyst,87374,294862
+37,Ph.D.,9,Startup,Data Scientist,63026,241075
+63,Ph.D.,16,Corporation,Analyst,104696,223126
+60,Master's,15,Corporation,Data Scientist,151416,50318
+40,Bachelor's,17,Startup,Data Scientist,158702,247094
+29,Ph.D.,19,Startup,Manager,135186,158605
+50,Master's,19,Startup,Engineer,47177,51148
+23,Ph.D.,1,Startup,Analyst,171850,40119
+63,Ph.D.,19,Startup,Engineer,147537,280963
+24,Master's,4,Startup,Engineer,87281,69283
+50,Ph.D.,3,Corporation,Manager,122903,205431
+36,Ph.D.,9,Corporation,Analyst,192110,83427
+59,Bachelor's,9,Corporation,Engineer,48758,85539
+49,Master's,13,Startup,Data Scientist,24850,148366
+58,Ph.D.,6,Corporation,Engineer,176114,142414
+53,Master's,10,Corporation,Data Scientist,142879,165294
+51,Master's,11,Corporation,Data Scientist,90027,218463
+51,Bachelor's,5,Startup,Data Scientist,44856,270151
+55,Bachelor's,5,Startup,Manager,30475,243946
+34,Bachelor's,8,Startup,Analyst,198694,133262
+54,Ph.D.,15,Corporation,Engineer,53980,220419
+63,Ph.D.,14,Startup,Manager,172683,232022
+38,Ph.D.,0,Corporation,Analyst,144591,175666
+24,Ph.D.,3,Corporation,Data Scientist,119980,30810
+30,Ph.D.,1,Corporation,Analyst,114509,41315
+32,Ph.D.,14,Startup,Engineer,77893,290805
+48,Master's,6,Startup,Manager,141289,71397
+49,Master's,3,Corporation,Manager,172104,71048
+23,Bachelor's,4,Corporation,Data Scientist,178964,143260
+22,Ph.D.,5,Corporation,Data Scientist,72219,221708
+27,Master's,8,Corporation,Data Scientist,187413,66565
+46,Bachelor's,18,Startup,Engineer,59282,265773
+56,Bachelor's,9,Startup,Analyst,26927,142812
+37,Bachelor's,3,Corporation,Manager,57655,68542
+25,Bachelor's,2,Startup,Data Scientist,184286,286708
+59,Master's,9,Corporation,Manager,91734,146817
+41,Master's,13,Startup,Data Scientist,101260,60415
+46,Master's,17,Corporation,Analyst,28145,243951
+28,Bachelor's,17,Corporation,Manager,67725,91604
+42,Bachelor's,10,Corporation,Analyst,118784,194390
+28,Ph.D.,8,Corporation,Data Scientist,37990,193003
+50,Ph.D.,13,Startup,Manager,133363,151309
+28,Bachelor's,10,Startup,Engineer,97734,239250
+24,Master's,6,Corporation,Engineer,83809,87171
+50,Bachelor's,10,Startup,Engineer,100485,150351
+50,Ph.D.,3,Corporation,Analyst,105345,264340
+60,Ph.D.,15,Startup,Analyst,61091,57881
+59,Master's,18,Corporation,Data Scientist,158362,244859
+27,Bachelor's,2,Startup,Data Scientist,106706,281911
+31,Ph.D.,4,Corporation,Manager,175553,47477
+58,Master's,10,Corporation,Manager,180259,269550
+35,Ph.D.,7,Corporation,Analyst,61293,292574
+43,Master's,18,Corporation,Engineer,33730,273232
+53,Ph.D.,12,Corporation,Data Scientist,176495,280912
+39,Ph.D.,11,Startup,Data Scientist,163841,105292
+57,Bachelor's,12,Startup,Analyst,105022,51597
+30,Master's,17,Corporation,Analyst,167369,266522
+47,Master's,5,Corporation,Data Scientist,145577,160103
+43,Ph.D.,19,Startup,Analyst,105145,299129
+59,Bachelor's,7,Corporation,Data Scientist,111888,187179
+44,Ph.D.,4,Corporation,Engineer,103196,66054
+38,Ph.D.,10,Corporation,Data Scientist,82025,220871
+47,Ph.D.,18,Corporation,Data Scientist,152604,106318
+59,Master's,0,Corporation,Engineer,78686,166124
+23,Bachelor's,11,Startup,Engineer,136832,244514
+27,Ph.D.,9,Corporation,Manager,181685,232384
+28,Ph.D.,18,Startup,Engineer,77547,180290
+34,Ph.D.,13,Corporation,Analyst,33496,144561
+48,Master's,18,Startup,Manager,174489,138559
+32,Ph.D.,12,Corporation,Engineer,152524,193918
+36,Master's,9,Startup,Engineer,189666,144419
+30,Master's,8,Startup,Data Scientist,87680,32243
+29,Master's,1,Startup,Data Scientist,99964,98678
+27,Master's,17,Corporation,Analyst,133400,208005
+64,Master's,17,Startup,Engineer,47210,262627
+25,Bachelor's,15,Startup,Data Scientist,67459,84107
+32,Master's,16,Startup,Analyst,189149,119833
+49,Master's,17,Startup,Manager,89099,257908
+47,Ph.D.,7,Startup,Engineer,106949,267371
+25,Bachelor's,16,Startup,Manager,28895,269964
+36,Bachelor's,5,Corporation,Engineer,35713,164461
+40,Ph.D.,9,Startup,Engineer,141085,107711
+27,Master's,14,Startup,Engineer,88643,291998
+26,Bachelor's,12,Corporation,Engineer,93450,34187
+39,Master's,14,Startup,Engineer,87792,193240
+27,Ph.D.,13,Corporation,Analyst,166465,220624
+52,Bachelor's,1,Startup,Data Scientist,155811,292257
+46,Master's,4,Corporation,Manager,59263,82036
+25,Bachelor's,5,Startup,Engineer,97037,237193
+27,Bachelor's,12,Startup,Data Scientist,197252,287292
+62,Master's,9,Corporation,Engineer,113128,107673
+58,Master's,12,Startup,Engineer,52281,203371
+46,Bachelor's,0,Startup,Manager,107333,297690
+55,Ph.D.,5,Corporation,Engineer,107754,178276
+40,Bachelor's,9,Startup,Analyst,103168,271268
+55,Ph.D.,1,Startup,Manager,31903,209676
+36,Bachelor's,17,Startup,Analyst,153823,43494
+29,Master's,19,Startup,Engineer,111861,72835
+55,Ph.D.,1,Startup,Data Scientist,197128,269279
+39,Ph.D.,10,Corporation,Analyst,163949,132999
+51,Bachelor's,6,Corporation,Engineer,147072,282510
+34,Bachelor's,16,Corporation,Analyst,89226,215440
+54,Ph.D.,7,Corporation,Data Scientist,113189,104806
+56,Master's,6,Corporation,Data Scientist,67381,268430
+45,Ph.D.,11,Corporation,Data Scientist,86728,109494
+47,Ph.D.,9,Corporation,Data Scientist,70317,128999
+63,Master's,18,Startup,Engineer,81986,254303
+22,Master's,19,Corporation,Engineer,64076,262793
+34,Bachelor's,10,Corporation,Data Scientist,119504,118481
+31,Bachelor's,6,Startup,Analyst,126863,136384
+40,Bachelor's,6,Corporation,Data Scientist,148307,48064
+26,Master's,2,Corporation,Manager,188763,249471
+29,Ph.D.,17,Startup,Engineer,61489,237941
+25,Master's,10,Startup,Manager,159616,179136
+34,Bachelor's,7,Corporation,Analyst,122112,175638
+59,Ph.D.,8,Corporation,Data Scientist,103723,127767
+40,Bachelor's,8,Startup,Manager,106726,258997
+29,Ph.D.,4,Startup,Manager,68965,169799
+48,Master's,2,Startup,Data Scientist,28118,256812
+51,Bachelor's,16,Startup,Manager,27372,45518
+25,Master's,11,Startup,Manager,72689,264228
+32,Master's,3,Startup,Engineer,157119,83870
+42,Master's,0,Startup,Data Scientist,20744,253912
+64,Ph.D.,5,Startup,Engineer,109514,75794
+23,Master's,7,Startup,Engineer,95614,248705
+42,Master's,12,Corporation,Data Scientist,178342,204719
+38,Ph.D.,11,Corporation,Manager,167264,187770
+64,Master's,12,Startup,Data Scientist,172196,258626
+50,Master's,18,Corporation,Data Scientist,27616,253539
+48,Master's,15,Startup,Data Scientist,122387,145114
+45,Ph.D.,12,Startup,Data Scientist,197635,146198
+24,Ph.D.,12,Startup,Manager,25462,228447
+60,Bachelor's,15,Corporation,Engineer,58878,74201
+31,Master's,17,Startup,Manager,82951,296476
+24,Ph.D.,7,Startup,Analyst,188726,41760
+63,Master's,15,Corporation,Engineer,120439,295333
+47,Ph.D.,1,Corporation,Data Scientist,99153,277705
+58,Ph.D.,5,Corporation,Manager,194874,239112
+48,Ph.D.,0,Corporation,Data Scientist,132758,286876
+26,Bachelor's,13,Startup,Data Scientist,99672,49671
+63,Master's,8,Corporation,Data Scientist,27042,130349
+32,Ph.D.,18,Startup,Manager,35317,286335
+34,Master's,16,Startup,Analyst,135724,89413
+62,Ph.D.,13,Corporation,Data Scientist,50672,94572
+55,Master's,8,Corporation,Engineer,40482,266573
+59,Master's,6,Startup,Analyst,75387,132424
+61,Ph.D.,5,Corporation,Data Scientist,161945,52336
+54,Master's,3,Corporation,Manager,54537,192127
+55,Bachelor's,8,Startup,Analyst,117315,214812
+48,Bachelor's,12,Corporation,Manager,31904,45337
+57,Master's,13,Corporation,Data Scientist,168797,119169
+47,Master's,16,Startup,Engineer,117357,112160
+46,Ph.D.,18,Startup,Data Scientist,139295,34785
+40,Ph.D.,10,Corporation,Manager,121989,181937
+42,Master's,8,Corporation,Data Scientist,112562,247608
+52,Master's,16,Startup,Data Scientist,115980,138690
+50,Master's,18,Corporation,Analyst,104635,117791
+30,Master's,10,Startup,Manager,114473,272476
+40,Bachelor's,15,Corporation,Analyst,32912,80152
+47,Master's,6,Corporation,Manager,125894,43983
+46,Ph.D.,4,Startup,Manager,97690,168433
+61,Bachelor's,15,Startup,Manager,137990,298696
+64,Master's,0,Corporation,Analyst,20102,104936
+50,Ph.D.,3,Corporation,Analyst,171621,290667
+46,Bachelor's,15,Corporation,Analyst,61022,144467
+40,Master's,15,Corporation,Engineer,195116,188449
+25,Master's,1,Startup,Data Scientist,25698,109281
+41,Master's,18,Startup,Manager,118363,207517
+22,Master's,8,Corporation,Manager,181664,65101
+32,Bachelor's,9,Corporation,Data Scientist,125496,67860
+25,Ph.D.,8,Startup,Engineer,188298,125026
+28,Master's,7,Startup,Manager,49664,224681
+49,Bachelor's,15,Corporation,Manager,60068,209082
+57,Bachelor's,9,Corporation,Analyst,97768,100186
+28,Ph.D.,19,Startup,Engineer,95154,279370
+41,Bachelor's,3,Startup,Analyst,102733,190764
+56,Bachelor's,14,Startup,Engineer,147452,219643
+60,Ph.D.,2,Startup,Manager,94312,204973
+42,Bachelor's,11,Startup,Analyst,182704,235172
+22,Bachelor's,3,Corporation,Manager,29814,233995
+58,Ph.D.,14,Corporation,Manager,187786,269879
+63,Bachelor's,0,Corporation,Analyst,62879,165607
+24,Ph.D.,2,Corporation,Data Scientist,160887,102916
+55,Master's,10,Corporation,Manager,149346,235788
+34,Master's,5,Startup,Engineer,58448,292854
+37,Master's,4,Startup,Engineer,107770,212684
+55,Master's,18,Startup,Engineer,177835,32303
+45,Bachelor's,10,Startup,Manager,145080,107885
+34,Master's,3,Corporation,Manager,104367,220276
+27,Ph.D.,7,Corporation,Analyst,177337,65013
+60,Ph.D.,3,Startup,Engineer,132517,182024
+23,Ph.D.,1,Startup,Data Scientist,104502,295900
+32,Ph.D.,5,Corporation,Analyst,158035,168862
+28,Master's,3,Corporation,Manager,58045,235551
+28,Ph.D.,14,Startup,Analyst,30380,249404
+60,Master's,2,Corporation,Engineer,35162,84681
+60,Ph.D.,17,Corporation,Data Scientist,126364,183925
+33,Ph.D.,14,Corporation,Engineer,125748,189820
+43,Master's,10,Corporation,Manager,102862,296920
+24,Master's,19,Corporation,Data Scientist,67454,275649
+34,Bachelor's,4,Startup,Data Scientist,70286,297648
+51,Bachelor's,4,Startup,Manager,160555,235490
+31,Bachelor's,6,Corporation,Analyst,199142,122344
+30,Ph.D.,9,Corporation,Manager,166729,57644
+27,Ph.D.,9,Startup,Manager,99963,183679
+23,Ph.D.,3,Corporation,Analyst,114289,100507
+37,Bachelor's,7,Startup,Data Scientist,111622,69184
+34,Bachelor's,12,Startup,Engineer,136537,99145
+34,Bachelor's,4,Startup,Engineer,170411,256199
+43,Ph.D.,13,Startup,Engineer,116221,142956
+40,Master's,12,Corporation,Manager,64493,213239
+47,Bachelor's,0,Startup,Manager,136590,144067
+35,Master's,10,Startup,Engineer,187571,53014
+52,Ph.D.,14,Corporation,Manager,102169,39793
+50,Bachelor's,0,Startup,Analyst,119335,238917
+63,Ph.D.,0,Startup,Manager,21337,255433
+43,Master's,0,Corporation,Engineer,151728,248293
+28,Ph.D.,11,Startup,Engineer,186056,242487
+58,Ph.D.,5,Corporation,Manager,148975,281095
+62,Bachelor's,5,Corporation,Data Scientist,62506,40942
+48,Master's,18,Corporation,Manager,28489,245486
+52,Bachelor's,10,Corporation,Data Scientist,60874,156095
+27,Ph.D.,16,Startup,Analyst,190408,117403
+37,Ph.D.,17,Startup,Analyst,195005,201230
+59,Master's,11,Startup,Data Scientist,35007,75927
+59,Ph.D.,9,Startup,Data Scientist,162929,96026
+53,Bachelor's,9,Startup,Data Scientist,161220,81797
+54,Master's,12,Corporation,Data Scientist,66564,118691
+38,Ph.D.,0,Corporation,Analyst,113245,112610
+54,Bachelor's,7,Corporation,Analyst,71057,164208
+32,Bachelor's,13,Corporation,Manager,28661,165643
+34,Master's,16,Startup,Engineer,119227,140068
+51,Ph.D.,11,Corporation,Data Scientist,101177,68093
+22,Bachelor's,15,Corporation,Data Scientist,71119,274276
+51,Master's,12,Startup,Data Scientist,86742,263586
+48,Bachelor's,5,Startup,Manager,138216,96766
+61,Ph.D.,2,Startup,Engineer,122369,37195
+44,Bachelor's,12,Startup,Data Scientist,111898,191175
+41,Ph.D.,11,Corporation,Data Scientist,68495,112671
+27,Bachelor's,15,Startup,Manager,97257,44393
+58,Ph.D.,4,Corporation,Data Scientist,66987,118249
+41,Bachelor's,17,Startup,Engineer,91856,71226
+58,Bachelor's,12,Corporation,Engineer,150031,172094
+27,Master's,12,Corporation,Data Scientist,180528,67289
+50,Ph.D.,16,Startup,Manager,141072,256256
+34,Bachelor's,2,Startup,Engineer,103144,213337
+48,Master's,5,Corporation,Manager,69569,178269
+41,Bachelor's,2,Corporation,Engineer,198864,48783
+34,Master's,19,Startup,Analyst,98222,33829
+60,Bachelor's,15,Corporation,Engineer,21345,45461
+29,Master's,6,Corporation,Data Scientist,59598,139311
+38,Ph.D.,4,Corporation,Engineer,90879,266297
+51,Bachelor's,9,Corporation,Data Scientist,28982,98885
+22,Ph.D.,15,Startup,Engineer,130784,38608
+45,Ph.D.,0,Startup,Engineer,138476,220020
+37,Master's,10,Corporation,Engineer,91848,81112
+32,Ph.D.,16,Corporation,Data Scientist,175384,258102
+25,Master's,2,Startup,Analyst,115743,58865
+25,Master's,17,Startup,Engineer,34300,239205
+38,Master's,14,Corporation,Analyst,197212,114327
+31,Master's,5,Corporation,Engineer,45982,47210
+42,Master's,5,Corporation,Manager,105116,142204
+59,Bachelor's,2,Startup,Manager,42008,248384
+39,Bachelor's,3,Startup,Engineer,25817,203160
+31,Ph.D.,11,Corporation,Data Scientist,162419,252396
+37,Bachelor's,19,Startup,Manager,157203,164170
+60,Master's,13,Corporation,Data Scientist,67403,187337
+36,Master's,3,Startup,Engineer,94231,110453
+55,Bachelor's,5,Corporation,Manager,35940,119371
+26,Ph.D.,1,Corporation,Analyst,31762,113136
+38,Ph.D.,8,Corporation,Data Scientist,92401,259153
+58,Bachelor's,7,Startup,Data Scientist,84605,44082
+29,Master's,7,Corporation,Manager,38918,227829
+45,Master's,1,Corporation,Engineer,42042,46418
+49,Ph.D.,9,Corporation,Engineer,96754,199439
+29,Bachelor's,15,Startup,Analyst,199028,207508
+44,Master's,13,Startup,Manager,47951,263166
+56,Ph.D.,0,Corporation,Data Scientist,105218,83915
+52,Ph.D.,4,Startup,Manager,128017,36336
+38,Bachelor's,0,Startup,Analyst,134150,39464
+49,Ph.D.,11,Corporation,Manager,71852,88184
+33,Master's,19,Corporation,Manager,56440,45117
+45,Ph.D.,3,Corporation,Analyst,37518,133956
+36,Ph.D.,4,Startup,Engineer,118503,177056
+61,Ph.D.,15,Corporation,Engineer,110569,99013
+52,Bachelor's,17,Startup,Data Scientist,85468,222641
+48,Master's,10,Corporation,Manager,136007,298198
+56,Ph.D.,16,Corporation,Analyst,191309,165832
+39,Bachelor's,6,Startup,Analyst,49790,277799
+57,Ph.D.,2,Startup,Manager,71171,94349
+29,Master's,17,Corporation,Manager,141916,125647
+59,Ph.D.,18,Corporation,Analyst,71106,175116
+26,Bachelor's,1,Corporation,Analyst,166407,225276
+35,Ph.D.,0,Corporation,Manager,181218,148492
+59,Ph.D.,1,Startup,Engineer,78535,257649
+41,Ph.D.,6,Corporation,Engineer,162998,101606
+30,Bachelor's,4,Corporation,Data Scientist,65795,149434
+54,Ph.D.,4,Startup,Data Scientist,169530,270348
+39,Ph.D.,15,Startup,Analyst,99940,48480
+27,Bachelor's,19,Corporation,Manager,107541,188693
+58,Bachelor's,6,Startup,Data Scientist,175055,38324
+23,Master's,10,Startup,Manager,100009,232748
+51,Bachelor's,16,Startup,Engineer,192614,290533
+27,Ph.D.,2,Corporation,Engineer,103869,66535
+38,Ph.D.,14,Corporation,Engineer,144933,57231
+60,Bachelor's,14,Corporation,Data Scientist,21537,171051
+62,Master's,14,Startup,Manager,171126,298839
+44,Bachelor's,0,Corporation,Data Scientist,93565,50771
+52,Master's,7,Startup,Analyst,72869,110372
+41,Bachelor's,1,Corporation,Manager,198576,166628
+26,Master's,4,Corporation,Analyst,48570,57390
+42,Master's,8,Corporation,Data Scientist,36684,52203
+64,Ph.D.,15,Startup,Engineer,108142,189140
+32,Master's,0,Startup,Data Scientist,56829,44897
+25,Ph.D.,3,Corporation,Engineer,160603,70333
+44,Bachelor's,15,Corporation,Manager,131691,284198
+59,Bachelor's,10,Corporation,Engineer,69941,47455
+51,Bachelor's,1,Startup,Data Scientist,148189,283835
+63,Bachelor's,3,Startup,Manager,72281,211952
+62,Bachelor's,3,Corporation,Data Scientist,182202,253866
+39,Ph.D.,2,Corporation,Analyst,119381,204737
+62,Bachelor's,4,Corporation,Data Scientist,85515,30227
+64,Master's,10,Corporation,Data Scientist,61412,233235
+52,Ph.D.,14,Corporation,Engineer,190105,123299
+51,Master's,9,Startup,Manager,63686,222032
+55,Ph.D.,5,Corporation,Data Scientist,81889,115627
+52,Master's,19,Startup,Analyst,156836,278411
+59,Ph.D.,5,Startup,Engineer,150279,159946
+46,Bachelor's,3,Corporation,Data Scientist,33715,80701
+38,Ph.D.,19,Corporation,Manager,78741,33370
+57,Ph.D.,16,Corporation,Engineer,63485,203336
+61,Master's,7,Corporation,Data Scientist,140674,285283
+51,Ph.D.,10,Corporation,Data Scientist,135544,92428
+23,Ph.D.,12,Startup,Engineer,82265,246560
+45,Bachelor's,4,Startup,Manager,131148,269775
+30,Master's,16,Corporation,Analyst,131629,284624
+22,Ph.D.,12,Startup,Manager,30736,82360
+45,Master's,15,Startup,Analyst,163567,231745
+59,Ph.D.,10,Corporation,Manager,176672,53190
+48,Ph.D.,11,Startup,Engineer,181905,248880
+47,Master's,14,Startup,Analyst,37843,194047
+47,Bachelor's,10,Startup,Engineer,92749,176371
+28,Ph.D.,19,Startup,Data Scientist,139446,242083
+46,Ph.D.,11,Corporation,Engineer,113982,102215
+37,Ph.D.,6,Corporation,Analyst,196735,114282
+59,Master's,7,Corporation,Data Scientist,68173,253371
+63,Bachelor's,0,Corporation,Analyst,133340,82544
+39,Ph.D.,19,Corporation,Analyst,145859,178504
+38,Ph.D.,2,Startup,Engineer,60979,82265
+27,Ph.D.,0,Corporation,Manager,99458,118200
+41,Master's,0,Startup,Manager,96035,234778
+44,Master's,7,Startup,Engineer,56540,255475
+33,Master's,18,Corporation,Engineer,117736,117676
+33,Master's,0,Corporation,Manager,116321,144209
+55,Bachelor's,2,Corporation,Manager,54447,175840
+29,Master's,6,Corporation,Engineer,139657,215144
+48,Master's,12,Corporation,Manager,42792,157715
+29,Ph.D.,0,Startup,Engineer,124756,257721
+54,Master's,8,Startup,Engineer,170422,145588
+58,Bachelor's,3,Startup,Engineer,194220,279163
+40,Bachelor's,13,Corporation,Engineer,162339,285336
+45,Ph.D.,3,Startup,Engineer,176950,194617
+43,Bachelor's,6,Corporation,Engineer,171193,271389
+24,Master's,6,Startup,Data Scientist,117973,264014
+30,Master's,6,Corporation,Engineer,41032,226725
+32,Bachelor's,2,Startup,Engineer,192201,69221
+27,Bachelor's,15,Corporation,Data Scientist,68823,193575
+60,Master's,14,Corporation,Manager,126214,209039
+60,Ph.D.,18,Startup,Engineer,41684,291542
+58,Master's,16,Startup,Engineer,76872,140785
+23,Ph.D.,11,Corporation,Data Scientist,23556,187165
+58,Ph.D.,1,Startup,Manager,33333,207822
+27,Bachelor's,10,Startup,Engineer,105446,254041
+27,Ph.D.,5,Startup,Engineer,37484,257327
+60,Master's,15,Startup,Analyst,120999,208341
+57,Master's,13,Corporation,Data Scientist,168611,272366
+46,Bachelor's,4,Startup,Manager,96280,108478
+37,Ph.D.,0,Corporation,Manager,172522,282041
+42,Master's,13,Startup,Manager,165435,242547
+31,Ph.D.,12,Corporation,Analyst,80089,32078
+26,Master's,6,Startup,Manager,116497,297927
+46,Master's,17,Startup,Data Scientist,166929,218975
+52,Master's,17,Corporation,Data Scientist,120696,236263
+24,Master's,3,Startup,Engineer,85713,272352
+41,Bachelor's,0,Startup,Engineer,187086,69302
+25,Bachelor's,19,Corporation,Data Scientist,56553,277829
+35,Ph.D.,17,Corporation,Manager,75276,163539
+33,Ph.D.,3,Corporation,Engineer,147012,212507
+35,Bachelor's,13,Corporation,Engineer,163880,55488
+58,Master's,11,Corporation,Manager,66473,44118
+39,Ph.D.,17,Corporation,Engineer,86019,160311
+48,Ph.D.,4,Startup,Data Scientist,198561,75343
+28,Bachelor's,15,Startup,Analyst,26822,190328
+56,Ph.D.,10,Startup,Analyst,170573,292471
+43,Bachelor's,6,Startup,Data Scientist,187769,259690
+42,Master's,6,Startup,Engineer,96377,39067
+64,Ph.D.,16,Startup,Data Scientist,141152,264364
+39,Master's,4,Startup,Engineer,48670,280165
+59,Master's,3,Corporation,Engineer,195418,144587
+47,Bachelor's,7,Startup,Data Scientist,116582,200276
+43,Master's,0,Corporation,Data Scientist,163975,50452
+58,Bachelor's,0,Startup,Data Scientist,141586,53761
+26,Bachelor's,8,Corporation,Analyst,98353,273361
+56,Ph.D.,3,Startup,Analyst,50475,282269
+33,Master's,6,Startup,Engineer,167473,199384
+56,Bachelor's,5,Startup,Data Scientist,128126,120835
+55,Ph.D.,7,Corporation,Manager,133849,194127
+41,Bachelor's,19,Startup,Engineer,74258,289954
+33,Master's,13,Startup,Engineer,38289,86918
+55,Master's,18,Corporation,Analyst,125161,172112
+47,Ph.D.,17,Startup,Manager,90412,60597
+55,Ph.D.,3,Startup,Manager,69041,126399
+53,Ph.D.,8,Startup,Analyst,70980,206749
+28,Ph.D.,15,Startup,Engineer,127168,241194
+47,Ph.D.,11,Startup,Analyst,21407,118608
+46,Master's,3,Corporation,Manager,51619,97374
+60,Ph.D.,12,Startup,Analyst,63513,172658
+38,Ph.D.,11,Startup,Data Scientist,151020,124520
+45,Ph.D.,17,Startup,Data Scientist,34453,253374
+48,Ph.D.,18,Startup,Engineer,92943,192371
+25,Master's,10,Corporation,Engineer,78868,263907
+48,Master's,11,Corporation,Analyst,138471,283101
+51,Bachelor's,15,Corporation,Data Scientist,122638,206685
+24,Ph.D.,6,Startup,Engineer,132317,281769
+27,Ph.D.,3,Corporation,Data Scientist,29733,296704
+29,Master's,18,Corporation,Analyst,66354,40081
+37,Master's,3,Startup,Manager,64562,183236
+36,Master's,1,Startup,Manager,148849,236759
+57,Ph.D.,10,Corporation,Manager,89129,86930
+61,Bachelor's,1,Startup,Engineer,184506,273882
+29,Bachelor's,10,Corporation,Manager,177828,289681
+60,Master's,9,Corporation,Data Scientist,139656,199776
+51,Master's,13,Corporation,Analyst,36498,225094
+33,Master's,19,Corporation,Data Scientist,169733,69487
+25,Master's,2,Startup,Data Scientist,35713,148720
+35,Bachelor's,18,Startup,Analyst,38193,277077
+46,Bachelor's,7,Startup,Analyst,53532,213932
+26,Master's,8,Startup,Data Scientist,25615,261414
+44,Bachelor's,5,Corporation,Data Scientist,103431,247520
+51,Master's,14,Corporation,Analyst,95622,183641
+60,Bachelor's,19,Corporation,Manager,188550,121744
+33,Ph.D.,6,Corporation,Data Scientist,135258,267585
+36,Ph.D.,0,Corporation,Analyst,30402,46133
+40,Bachelor's,8,Corporation,Manager,138747,78022
+47,Master's,15,Startup,Analyst,153613,162681
+25,Bachelor's,5,Corporation,Data Scientist,52625,160261
+59,Master's,3,Corporation,Engineer,151865,86107
+29,Master's,14,Startup,Manager,115558,153797
+51,Master's,8,Startup,Engineer,30378,168168
+36,Master's,9,Corporation,Manager,185711,196553
+33,Bachelor's,4,Startup,Manager,79476,236735
+31,Bachelor's,7,Corporation,Engineer,64469,281809
+33,Ph.D.,1,Startup,Data Scientist,171503,64264
+38,Master's,19,Startup,Data Scientist,106198,186813
+61,Ph.D.,13,Startup,Data Scientist,23875,231858
+23,Bachelor's,5,Startup,Analyst,132327,163716
+40,Bachelor's,8,Startup,Data Scientist,63880,148518
+50,Master's,9,Startup,Analyst,183441,245059
+22,Bachelor's,7,Startup,Manager,196556,241619
+43,Master's,3,Startup,Data Scientist,76878,233606
+46,Ph.D.,15,Startup,Manager,59268,64323
+31,Master's,5,Corporation,Manager,21111,211883
+30,Bachelor's,9,Corporation,Analyst,87747,214705
+40,Bachelor's,11,Corporation,Manager,78386,39719
+33,Bachelor's,3,Startup,Engineer,104558,199709
+50,Ph.D.,18,Corporation,Engineer,161348,118035
+39,Master's,3,Startup,Data Scientist,193424,127484
+37,Ph.D.,14,Startup,Analyst,180615,269295
+25,Bachelor's,9,Startup,Manager,24621,211273
+64,Master's,17,Startup,Data Scientist,189975,201537
+46,Ph.D.,15,Corporation,Analyst,110731,142911
+43,Master's,15,Startup,Engineer,60424,271433
+50,Bachelor's,9,Startup,Analyst,85851,152959
+43,Ph.D.,19,Corporation,Engineer,176911,271465
+36,Master's,7,Startup,Analyst,133853,52440
+23,Master's,7,Corporation,Analyst,89088,268078
+34,Bachelor's,5,Startup,Engineer,20030,173596
+33,Bachelor's,11,Startup,Manager,152681,66559
+47,Bachelor's,12,Startup,Engineer,26235,198158
