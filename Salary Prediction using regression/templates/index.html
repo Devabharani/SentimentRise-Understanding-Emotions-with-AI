@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction</title>
+    <style>
+        body {
+            background-image: url('https://freerangestock.com/thumbnail/145397/artificial-intelligence-background--abstract-ai-background-with.jpg'); /* Replace 'your-image-url.jpg' with the URL of your background image */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed; /* This keeps the background fixed while scrolling */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .content {
+            text-align: center;
+        }
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 10px 0;
+        }
+        label {
+            font-weight: bold;
+			color: white;
+        }
+        .button-container {
+            display: flex;
+            justify-content: center;
+        }
+        select,
+        input[type="number"] {
+            width: 100%;
+            padding: 5px;
+        }
+        .custom-button {
+            background-color: #007BFF; /* Button background color */
+            color: #FFF; /* Button text color */
+            padding: 10px 20px; /* Adjust padding for the button size */
+            border: none; /* Remove the border */
+            border-radius: 20px; /* Adjust border radius for rounded corners */
+            cursor: pointer;
+        }
+        .custom-button:hover {
+            background-color: #0056b3; /* Change the background color on hover */
+        }
+		 h1 {
+            font-weight: bold;
+			color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="content">SALARY PREDICTION</h1>
+
+    <form method="post">
+        <div class="form-group">
+            <label for="age">AGE:</label>
+            <input type="number" name="age" required>
+        </div>
+
+        <div class="form-group">
+            <label for="education">EDUCATION:</label>
+            <select name="education" required>
+                <option value="Bachelor">Bachelor</option>
+                <option value="Master">Master</option>
+                <option value="Ph.D.">Ph.D.</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="experience">EXPERIENCE (years):</label>
+            <input type="number" name="experience" required>
+        </div>
+
+        <div class="form-group">
+            <label for="company_type">COMPANY TYPE:</label>
+            <select name="company_type" id="company_type">
+                <option value="Startup">Startup</option>
+                <option value="Corporation">Corporation</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="position">POSITION:</label>
+            <select name="position" id="position">
+                <option value="Engineer">Engineer</option>
+                <option value="Analyst">Analyst</option>
+                <option value="Manager">Manager</option>
+                <option value="Data Scientist">Data Scientist</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="past_salary_inr">PAST SALARY (INR):</label>
+            <input type="number" name="past_salary_inr" required>
+        </div>
+
+        <div class="button-container">
+            <input type="submit" value="PREDICT SALARY" class="custom-button">
+        </div>
+		
+    </form>
+</body>
+</html>

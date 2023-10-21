@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction Result</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url('https://i.pinimg.com/originals/ab/79/f3/ab79f3a8cdbd6afb23b979c673751d36.jpg'); /* Replace 'your-image-url.jpg' with the URL of your background image */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+      h1 {
+            text-align: center;
+            color: white;
+        }
+        label, p {
+            text-align: center;
+            color: violet; 
+			 font-weight: bold;
+			 font-size: 20px;
+        }
+		  .goback-button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        .goback-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>SALARY PREDICTION RESULT</h1>
+    <p>Predicted Salary: INR {{ predicted_salary }}</p>
+	 <form method="get" action="/">
+        <button class="goback-button">Go Back</button>
+    </form>
+</body>
+</html>
